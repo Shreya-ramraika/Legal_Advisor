@@ -1,0 +1,89 @@
+id: doc_006
+topic: Tenant Rights in India - Rent Agreements, Eviction, and Landlord Disputes
+source: Transfer of Property Act 1882, Model Tenancy Act 2021, State Rent Control Acts
+
+TENANT RIGHTS IN INDIA — COMPLETE GUIDE
+
+Millions of Indians live in rented accommodation, yet most tenants are unaware of their legal rights. Tenancy law in India is governed by a combination of the Transfer of Property Act, 1882 (for general provisions), State Rent Control Acts (for protection against arbitrary eviction and rent hikes), and the newly enacted Model Tenancy Act, 2021 (which states can adopt). This guide covers the most important rights and protections available to tenants across India.
+
+THE RENT AGREEMENT — FOUNDATION OF TENANCY
+
+A rent agreement (also called a lease agreement) is a written contract between the landlord (lessor) and tenant (lessee) that defines the terms of the tenancy. Key points every tenant must know:
+
+1. Registration: A rent agreement for more than 12 months must be compulsorily registered under the Registration Act, 1908. Agreements for 11 months or less are typically made unregistered (and unregistered agreements are not admissible in court as primary evidence, though they can still be used as secondary evidence). Most landlords use 11-month agreements to avoid registration — this is legally permissible.
+
+2. Stamp Duty: Even unregistered agreements must have proper stamp duty paid (which varies by state). An improperly stamped agreement can be impounded by a court.
+
+3. What Must Be in the Agreement:
+   - Name and address of landlord and tenant
+   - Description of the property
+   - Monthly rent amount and due date
+   - Security deposit amount and refund terms
+   - Duration of the tenancy
+   - Notice period for termination (usually 30 to 60 days)
+   - Lock-in period (if any)
+   - Permitted use of the property
+   - Maintenance and repair responsibilities
+
+4. Security Deposit: The Model Tenancy Act 2021 caps security deposit at 2 months' rent for residential properties and 6 months' rent for commercial properties. However, states vary — in some cities like Mumbai and Bengaluru, security deposits of 6–12 months' rent are customary. Always get a written receipt.
+
+KEY RIGHTS OF TENANTS
+
+Right to Peaceful Enjoyment: Once a valid tenancy is created, the tenant has the right to peaceful possession and enjoyment of the property without interference by the landlord. The landlord cannot enter the rented premises without prior notice and consent (usually 24 hours' advance notice is considered reasonable, except in emergencies).
+
+Right Against Arbitrary Eviction: A landlord cannot forcibly evict a tenant without following due legal process. In states with Rent Control Acts (Maharashtra, Delhi, Tamil Nadu, West Bengal, Karnataka, etc.), a tenant can only be evicted on specific grounds:
+- Non-payment of rent
+- Subletting without consent
+- Causing damage to the property
+- Personal need of the landlord (bona fide need)
+- Illegal use of the premises
+
+Even on these grounds, the landlord must file an eviction suit in the Rent Controller's court (not a civil court in most cases) and follow the legal process. Self-help evictions — cutting electricity, removing doors, locking out the tenant — are illegal.
+
+Right to Receipt: A tenant is entitled to receive a written receipt for every rent payment. Always insist on a receipt and keep copies.
+
+Right to Essential Services: The landlord cannot cut off water, electricity, or other essential services to coerce the tenant to vacate. This is illegal and punishable.
+
+Right to Timely Repairs: The landlord is responsible for major structural repairs (walls, roof, plumbing systems). The tenant is responsible for day-to-day minor maintenance as agreed. If the landlord refuses to make essential repairs that affect habitability, the tenant may apply to the Rent Controller for directions.
+
+Right to Refund of Security Deposit: At the end of the tenancy, the security deposit must be refunded within a reasonable time (the Model Tenancy Act specifies one month) after the tenant vacates, after deducting legitimate charges for unpaid rent or actual damage beyond normal wear and tear. Landlords cannot make arbitrary deductions.
+
+EVICTION PROCEDURE — WHAT IS LEGAL
+
+Step 1: The landlord must issue a legal notice specifying the reason for eviction and giving the tenant the agreed notice period (usually 30–60 days).
+Step 2: If the tenant does not vacate, the landlord must file an eviction petition before the Rent Controller or appropriate civil court.
+Step 3: The court/Rent Controller issues summons to the tenant, who has the right to contest.
+Step 4: Both parties present evidence and arguments.
+Step 5: If the court orders eviction, the tenant is given time to vacate and can appeal the order.
+
+WHAT TO DO IF YOUR LANDLORD HARASSES YOU
+
+1. Document Everything: Keep records of all communications, receipts, notices, and incidents of harassment.
+
+2. Send a Legal Notice: Have a lawyer send a cease-and-desist legal notice to the landlord stating your rights under the tenancy agreement and applicable law.
+
+3. File a Police Complaint: If the landlord uses force, cuts off utilities, or enters without permission, file an FIR for trespass (IPC Section 441) or mischief (IPC Section 425/426).
+
+4. File Before Rent Controller: Approach the Rent Controller (a quasi-judicial authority under the State Rent Control Act) for protection.
+
+5. Civil Court Injunction: In urgent cases, apply for an interim injunction before the Civil Court restraining the landlord from unlawfully evicting you or disrupting your possession.
+
+SECURITY DEPOSIT DISPUTES
+
+If the landlord refuses to refund your security deposit:
+1. Send a written demand through registered post
+2. File a complaint before the Rent Controller or Civil Court for recovery
+3. File a consumer complaint in the Consumer Forum if the landlord is a builder/developer
+4. The Model Tenancy Act 2021 mandates a penalty of double the security deposit on landlords who delay refund without valid reason
+
+TENANT'S DUTIES (TO PROTECT YOUR LEGAL POSITION)
+
+- Pay rent on time and keep all receipts
+- Do not sublet the property without the landlord's written consent
+- Do not use the property for purposes other than what is agreed
+- Maintain the property in good condition and report damages promptly
+- Give proper notice before vacating
+
+IMPORTANT NOTE
+
+Tenancy laws vary significantly between states. Maharashtra, Delhi, and Tamil Nadu have strong Rent Control Acts favouring tenants. Some states like Rajasthan have weaker protections. Check your state's specific Rent Control Act. If facing eviction or harassment, do not abandon the property in panic — vacating voluntarily weakens your legal position significantly. Consult a local lawyer or your District Legal Services Authority (DLSA) immediately. Legal aid is free for eligible citizens.

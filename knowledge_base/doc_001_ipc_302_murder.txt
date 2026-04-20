@@ -1,0 +1,73 @@
+id: doc_001
+topic: IPC Section 302 - Murder Under Indian Penal Code
+source: Indian Penal Code, 1860
+
+IPC SECTION 302 — MURDER: COMPLETE LEGAL GUIDE
+
+Section 302 of the Indian Penal Code, 1860 deals with the punishment for murder. It states: "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine." This is one of the most serious criminal offences under Indian law, and understanding its legal framework is essential for any citizen.
+
+WHAT CONSTITUTES MURDER (SECTION 300, IPC)
+
+Murder is defined under Section 300 of the IPC, which acts as the foundation for Section 302. A culpable homicide (killing of a human being) is classified as murder when:
+
+1. The act is done with the intention of causing death.
+2. The act is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person.
+3. The act is done with the intention of causing bodily injury to any person, and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death.
+4. The person committing the act knows that it is so imminently dangerous that it must in all probability cause death or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death.
+
+KEY DISTINCTION: MURDER vs CULPABLE HOMICIDE NOT AMOUNTING TO MURDER
+
+This distinction is critical in criminal trials. Culpable homicide not amounting to murder is punishable under Section 304 IPC with a lesser sentence. The Supreme Court of India has repeatedly held that the difference lies in the degree of intention and knowledge. If the act is done with the clear intention to kill, it is murder. If death results from reckless or negligent conduct without a clear intention to kill, it may fall under Section 304.
+
+The landmark case of K.M. Nanavati vs State of Maharashtra (1962) clarified the application of grave and sudden provocation as an exception to murder. The court held that provocation must be grave and sudden, and the accused must have acted in the heat of the moment without time for reflection.
+
+EXCEPTIONS TO MURDER (SECTION 300)
+
+Indian law recognises five exceptions where culpable homicide is not treated as murder:
+
+Exception 1 — Grave and Sudden Provocation: If the accused was deprived of the power of self-control by grave and sudden provocation, causing death in the heat of passion, the offence is reduced to culpable homicide.
+
+Exception 2 — Right of Private Defence: If the act causing death is done while exceeding the right of private defence, without premeditation and without any intention of doing more harm than necessary, it is not murder.
+
+Exception 3 — Public Servant Acting in Good Faith: A public servant or any person aiding a public servant acting for the advancement of public justice, if the act causing death exceeds lawful power but is done in good faith and without ill-will, it is not murder.
+
+Exception 4 — Sudden Fight: In a sudden fight without premeditation in the heat of passion upon a sudden quarrel, where no undue advantage is taken, the act is not murder.
+
+Exception 5 — Consent of Victim: If the person whose death is caused, being above 18 years of age, suffers death by consenting to take the risk, it is not murder.
+
+PUNISHMENT UNDER SECTION 302
+
+The punishment for murder is among the most severe in Indian law:
+- Death penalty (capital punishment), OR
+- Imprisonment for life (which means the remainder of natural life unless remission is granted)
+- Fine (in addition to either of the above)
+
+The Supreme Court in Bachan Singh vs State of Punjab (1980) established the "rarest of rare" doctrine, stating that the death penalty should be imposed only in the most exceptional cases where the crime shocks the collective conscience of society. Courts must consider both aggravating and mitigating circumstances before awarding the death penalty.
+
+PROCEDURE WHEN MURDER IS REPORTED
+
+1. Filing an FIR: Murder is a cognisable and non-bailable offence. Police can arrest without a warrant. An FIR must be registered under Section 154 CrPC immediately upon information being received.
+
+2. Investigation: The investigation is conducted by an officer not below the rank of Sub-Inspector. The body is sent for post-mortem (medical examination by a government doctor).
+
+3. Charge Sheet: After investigation, a charge sheet is filed under Section 173 CrPC in the Sessions Court, as murder trials are exclusively within the jurisdiction of the Sessions Court.
+
+4. Trial: The trial is conducted by a Sessions Judge. The prosecution must prove guilt beyond reasonable doubt. The accused has the right to legal representation.
+
+5. Right to Legal Aid: If the accused cannot afford a lawyer, the court is obligated to provide one free of charge under Article 39A of the Constitution and the Legal Services Authorities Act, 1987.
+
+IMPORTANT RIGHTS OF THE ACCUSED
+
+- Right to be informed of the grounds of arrest (Article 22, Constitution of India)
+- Right to remain silent — no person can be compelled to be a witness against themselves (Article 20(3))
+- Right to a fair trial including legal representation
+- Right to bail hearing, though murder is non-bailable (bail can only be granted by the Sessions Court or High Court)
+- Right to appeal — from Sessions Court to High Court, and further to Supreme Court
+
+SECTION 302 AND JUVENILES
+
+If the accused is below 18 years of age at the time of the offence, the case is tried by the Juvenile Justice Board under the Juvenile Justice (Care and Protection of Children) Act, 2015. Juveniles cannot be awarded the death penalty or life imprisonment. The maximum sentence is three years in a place of safety.
+
+IMPORTANT NOTE
+
+This information is provided for general legal awareness only. If you or someone you know is involved in a murder case — as accused, victim's family, or witness — it is strongly advised to immediately consult a qualified criminal lawyer. Every case has unique facts, and legal strategy must be planned by a professional. Free legal aid is available through District Legal Services Authorities (DLSA) in every district.

@@ -1,0 +1,61 @@
+# 🔐 Environment Variables
+.env
+.env.*
+
+# 🐍 Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover
+
+# 📦 Virtual Environment
+venv/
+
+
+# 🧠 ChromaDB / Vector DB (local storage)
+chroma_db/
+*.db
+
+
+# 📊 Streamlit cache
+.streamlit/
+.streamlit/cache/
+
+# 📝 Logs
+*.log
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
+
+# 🧪 Jupyter / temp
+.ipynb_checkpoints/
+
+# 🔧 VS Code / IDE
+.vscode/
+.idea/
+
+# 🗂️ Temporary files
+temp/
+tmp/
+*.tmp
+
+# 📦 Build / Distribution
+build/
+dist/
+*.egg-info/
+
+# 🔑 API Keys (IMPORTANT)
+config.py  # if it contains secrets (optional)
+
+# 🚫 Ignore large files (optional)
+*.zip
+*.tar.gz
+*.rar
+
+# 📊 Model files (if any)
+*.bin
+*.pt
+*.ckpt

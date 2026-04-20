@@ -1,0 +1,98 @@
+id: doc_003
+topic: Filing an FIR - First Information Report Procedure Under CrPC
+source: Code of Criminal Procedure, 1973 (CrPC) - Sections 154, 155, 156
+
+FIRST INFORMATION REPORT (FIR) — COMPLETE GUIDE TO FILING
+
+A First Information Report (FIR) is a written document prepared by police when they receive information about the commission of a cognisable offence. It is governed by Section 154 of the Code of Criminal Procedure, 1973 (CrPC). Filing an FIR is the first and most critical step in the Indian criminal justice system. Every citizen has the legal right to file an FIR, and police are legally obligated to register it.
+
+WHAT IS A COGNISABLE OFFENCE?
+
+A cognisable offence is one in which a police officer can arrest without a warrant, investigate without prior permission of a Magistrate, and register an FIR. Examples include murder, rape, kidnapping, robbery, dacoity, cheating (under IPC 420), domestic violence, dowry harassment (IPC 498A), and POCSO offences. Non-cognisable offences (like assault without grievous hurt or defamation) are reported through a complaint to the Magistrate, not through an FIR.
+
+LEGAL RIGHT TO FILE AN FIR (SECTION 154, CrPC)
+
+Section 154 CrPC mandates that when any information relating to the commission of a cognisable offence is given to a police officer in charge of a police station, the officer must:
+1. Reduce the information to writing (if given orally)
+2. Read it back to the informant
+3. Have the informant sign or put their thumb impression
+4. Give a free copy of the FIR to the informant immediately
+
+The Supreme Court in Lalita Kumari vs Government of Uttar Pradesh (2013) held that registration of FIR is mandatory if the information discloses a cognisable offence. Police have no discretion to refuse. This is a landmark ruling every citizen should know.
+
+WHO CAN FILE AN FIR?
+
+- The victim of the offence
+- Any witness who has knowledge of the offence
+- Any person on behalf of the victim (relative, friend, neighbour)
+- A police officer who has direct knowledge of the commission of a cognisable offence
+
+An FIR can even be filed anonymously (though it may be treated as less credible during investigation).
+
+STEP-BY-STEP FIR FILING PROCESS
+
+Step 1 — Go to the Correct Police Station: File the FIR at the police station within whose jurisdiction the offence occurred. This is called the "jurisdictional police station." For online frauds or crimes without a fixed location, you may file at any police station (zero FIR).
+
+Step 2 — Meet the Officer in Charge: Ask to speak to the Station House Officer (SHO) or the duty officer. Inform them of the cognisable offence with complete details.
+
+Step 3 — Give Information: Narrate the facts clearly — what happened, when it happened, where it happened, who was involved, and what evidence exists. Keep the narration factual and avoid emotional language.
+
+Step 4 — FIR Is Written: The officer must write down your information in the FIR register. If you prefer, you can also bring a written complaint which will be read into the record.
+
+Step 5 — Read and Sign: The written FIR is read back to you. If the content is accurate, sign or put your thumb impression. Do not sign anything you have not understood.
+
+Step 6 — Obtain a Free Copy: Immediately ask for and receive a free copy of the FIR. This is your legal right under Section 154(2) CrPC. Note the FIR number — you will need it for all future follow-ups.
+
+ZERO FIR — FILING ANYWHERE IN INDIA
+
+A Zero FIR can be filed at any police station regardless of jurisdiction. This was introduced to ensure that victims are not sent from station to station. The receiving station registers the Zero FIR and transfers it to the jurisdictional police station. This is especially useful in cases of rape, sexual assault, and trafficking where the victim may be in a different location.
+
+WHAT IF POLICE REFUSE TO FILE YOUR FIR?
+
+This is a common problem. Here is what you can do:
+
+Option 1 — Written Application to SP: Send a written complaint by registered post or hand delivery to the Superintendent of Police (SP) or Deputy Superintendent of Police (DySP) of the district. Under Section 154(3) CrPC, the SP can direct the registration of the FIR and investigation.
+
+Option 2 — Magistrate Complaint (Section 200 CrPC): File a written complaint directly before the Judicial Magistrate of First Class. The Magistrate can take cognisance of the offence and direct police to investigate and register an FIR under Section 156(3) CrPC.
+
+Option 3 — High Court Petition: File a writ petition (mandamus) in the High Court directing police to register the FIR. Courts consistently uphold this right.
+
+Option 4 — State Human Rights Commission or National Human Rights Commission: If police are systematically denying FIR registration due to political pressure or bias, file a complaint with the SHRC or NHRC.
+
+EVIDENCE TO PRESERVE BEFORE FILING AN FIR
+
+- Photographs or videos of the crime scene or injuries
+- Screenshots of messages, emails, social media posts
+- Medical examination report (especially in assault or rape cases — go to a government hospital immediately)
+- Witnesses' names, addresses, and contact numbers
+- Receipts, contracts, or documents related to the offence
+- Call records (request from your service provider or ask police to obtain)
+
+CONTENTS OF A VALID FIR
+
+A properly drafted FIR must contain:
+1. Name and address of the informant
+2. Date, time, and place of the offence
+3. Name of accused (if known) or description (if unknown)
+4. Nature of the offence and IPC/special law sections applicable
+5. Description of property lost or harm caused
+6. Names of witnesses
+7. Signature of the informant and the officer
+
+AFTER THE FIR IS FILED — WHAT HAPPENS NEXT
+
+1. Investigation begins under Section 156 CrPC. Police may visit the crime scene, record statements, and arrest the accused.
+2. If the accused is arrested, they must be produced before a Magistrate within 24 hours (Article 22, Constitution).
+3. A charge sheet (under Section 173 CrPC) is filed within 60 days for offences punishable up to 10 years, and 90 days for offences with more severe punishment. If charge sheet is not filed within this period, the accused is entitled to default bail.
+4. Trial begins after the Magistrate takes cognisance of the charge sheet.
+
+YOUR RIGHTS AFTER FILING AN FIR
+
+- Right to receive status updates on the investigation
+- Right to approach the Magistrate if investigation is not progressing
+- Right to apply for compensation under victim compensation schemes
+- Right to be accompanied by a person of your choice during police questioning
+
+IMPORTANT NOTE
+
+Filing a false FIR is an offence under IPC Section 182 (false information to public servant) and Section 211 (false charge of offence). Always ensure the information you provide is truthful and accurate to the best of your knowledge. For free legal assistance in filing an FIR, contact your nearest District Legal Services Authority (DLSA) or call the National Legal Services Authority (NALSA) helpline at 15100.

@@ -1,0 +1,82 @@
+id: doc_002
+topic: IPC Section 420 - Cheating and Dishonestly Inducing Delivery of Property
+source: Indian Penal Code, 1860
+
+IPC SECTION 420 — CHEATING: COMPLETE LEGAL GUIDE
+
+Section 420 of the Indian Penal Code, 1860 is one of the most commonly invoked sections in criminal law. It deals with cheating and dishonestly inducing a person to deliver property or alter valuable securities. The section states: "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine."
+
+WHAT IS CHEATING? (SECTION 415, IPC)
+
+Before Section 420 can apply, the act must constitute cheating as defined under Section 415:
+
+A person is said to cheat when they:
+1. Fraudulently or dishonestly deceive any person, inducing that person to deliver property or consent to retain property; OR
+2. Intentionally induce that person to do or omit to do anything which they would not do or omit if they were not so deceived, and which causes or is likely to cause damage or harm to that person in body, mind, reputation, or property.
+
+The Supreme Court in Hridaya Ranjan Prasad Verma vs State of Bihar (2000) held that the distinction between mere breach of contract and cheating is the element of fraudulent or dishonest intention at the time of making the promise. If deceit exists from the very beginning, it is cheating. If the person genuinely intended to fulfil the promise but later failed, it is a civil dispute.
+
+KEY ELEMENTS REQUIRED TO PROVE SECTION 420
+
+To successfully prosecute a case under Section 420, the prosecution must prove all four elements:
+
+1. Deception: The accused must have deceived the complainant. Deception can be by words, conduct, or concealment of facts. Example: Selling a duplicate product as the original, giving false identity, making false representations about property.
+
+2. Fraudulent/Dishonest Intention: The intention to deceive must exist at the time of the transaction. Subsequent failure to repay or deliver does not automatically mean cheating — the fraud must be initial.
+
+3. Inducement to Deliver Property: As a direct result of the deception, the victim must have been induced to deliver property (money, goods, documents) or alter valuable securities.
+
+4. Actual Loss or Damage: The victim must have suffered actual property loss as a consequence of the deceit.
+
+DIFFERENCE BETWEEN SECTION 415 AND SECTION 420
+
+Section 415 defines the offence of cheating (simple cheating) and is punishable under Section 417 with imprisonment up to one year or fine. Section 420 is a more serious and aggravated form of cheating where the victim has actually delivered property, altered securities, or suffered tangible property loss. The punishment under 420 is up to seven years — significantly higher.
+
+PUNISHMENT UNDER SECTION 420
+
+- Imprisonment: Up to 7 years (may be rigorous or simple)
+- Fine: As determined by the court
+- The offence is cognisable (police can arrest without warrant), non-bailable, and triable by the Magistrate of First Class
+
+COMMON SITUATIONS WHERE SECTION 420 APPLIES
+
+1. Online fraud: Fake e-commerce websites, UPI fraud, phishing attacks where money is transferred.
+2. Property fraud: Selling the same property to multiple buyers, forged title deeds.
+3. Loan fraud: Obtaining loans using fake documents and identity.
+4. Job fraud: Collecting money promising government or private jobs that do not exist.
+5. Investment fraud: Ponzi schemes and multi-level marketing frauds.
+6. Matrimonial fraud: Concealing marital status or financial condition to induce marriage.
+7. Academic fraud: Selling fake degrees, certificates, or mark sheets.
+
+HOW TO FILE A COMPLAINT UNDER SECTION 420
+
+Step 1 — File an FIR: Visit the nearest police station and file an FIR under Section 154 CrPC. Provide all evidence: messages, emails, payment receipts, contracts, and witness information.
+
+Step 2 — If Police Refuse: If the police station refuses to register the FIR, you can:
+- Send a written complaint to the Superintendent of Police (SP) of the district.
+- File a private complaint directly before the Magistrate under Section 200 CrPC.
+- Approach the High Court for directions under Section 482 CrPC.
+
+Step 3 — Online Fraud: For cybercrime and online cheating, file a complaint on the National Cyber Crime Reporting Portal at cybercrime.gov.in or call the helpline number 1930.
+
+Step 4 — Investigation: Police will investigate, record statements, and if sufficient evidence is found, file a charge sheet in the Magistrate's court.
+
+CIVIL REMEDY ALONGSIDE CRIMINAL COMPLAINT
+
+Section 420 is a criminal remedy. However, a victim can simultaneously file a civil suit for recovery of money (through a suit for money recovery or a suit based on fraud) in the civil court. Both remedies can run in parallel — one does not bar the other.
+
+IMPORTANT SUPREME COURT JUDGMENTS
+
+1. Vesa Holdings Pvt. Ltd. vs State of Kerala (2015): The Supreme Court held that for cheating to amount to an offence, there must be a fraudulent or dishonest intention at the very beginning. Mere failure to repay is not cheating.
+
+2. Thermax Ltd. vs K.M. Johny (2011): The court held that in commercial transactions, dishonest intention must be distinguished from business disputes.
+
+3. State of Andhra Pradesh vs B. Suryanarayana Rao (2003): Clarified that in property fraud, the accused need not personally benefit — inducing delivery of property to a third party also constitutes cheating under Section 420.
+
+STATUTE OF LIMITATIONS
+
+For filing a police complaint, there is no strict limitation period, but delay in filing can weaken the case. For filing a private complaint before the Magistrate, the limitation period is generally three years from the date of the offence under the Limitation Act.
+
+IMPORTANT NOTE
+
+This document is for legal awareness and education only. If you have been cheated, consult a criminal lawyer immediately. Preserve all evidence including digital communications, payment receipts, and documents. Free legal aid is available at the District Legal Services Authority (DLSA) in your district.

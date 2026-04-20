@@ -1,0 +1,86 @@
+id: doc_007
+topic: Section 138 Negotiable Instruments Act - Cheque Bounce Law in India
+source: Negotiable Instruments Act, 1881 (Section 138 to 142)
+
+CHEQUE BOUNCE — SECTION 138, NEGOTIABLE INSTRUMENTS ACT: COMPLETE GUIDE
+
+Cheque dishonour (commonly called "cheque bounce") is one of the most frequently litigated financial offences in India, with millions of cases pending in courts. Section 138 of the Negotiable Instruments Act, 1881 makes dishonour of a cheque a criminal offence punishable with imprisonment or fine when specific conditions are met. This law protects creditors and ensures that cheques are treated as reliable payment instruments.
+
+WHEN IS A CHEQUE BOUNCE AN OFFENCE?
+
+Under Section 138, cheque dishonour becomes a criminal offence only when ALL of the following conditions are satisfied:
+
+1. The cheque was drawn for payment of a legally enforceable debt or legally enforceable liability. A cheque given as a gift or for a time-barred debt is NOT covered.
+2. The cheque was presented to the bank within 3 months (or its validity period, whichever is earlier) from the date on the cheque.
+3. The bank returned the cheque unpaid due to: insufficient funds, account closed, payment stopped by drawer, or signature mismatch.
+4. The payee (receiver of the cheque) sent a written demand notice to the drawer (issuer of the cheque) within 30 days of receiving the cheque return memo from the bank.
+5. The drawer failed to make payment of the demanded amount within 15 days of receiving the demand notice.
+
+If even one condition is not met, the cheque bounce complaint under Section 138 will fail. This is why procedural compliance is critical.
+
+STEP-BY-STEP PROCEDURE TO FILE A CHEQUE BOUNCE CASE
+
+Step 1 — Present the Cheque: Deposit the cheque in your bank. When it is dishonoured, the bank will return it with a "cheque return memo" stating the reason for dishonour.
+
+Step 2 — Send a Demand Notice (within 30 days): This is the most critical step. Within 30 days of receiving the cheque return memo, send a written legal demand notice to the drawer (cheque issuer) by registered post with acknowledgement due (RPAD). The notice must:
+- Mention the cheque number, date, amount, and drawee bank
+- State that the cheque has been dishonoured
+- Demand payment of the cheque amount within 15 days
+- Warn that failure to pay will result in criminal prosecution
+
+Keep proof of sending: postal receipt, tracking details, and a copy of the notice.
+
+Step 3 — Wait for 15 Days: Give the drawer 15 days from receipt of the notice to make payment. If they pay within this period, no criminal case can be filed (the matter is settled).
+
+Step 4 — File Complaint in Magistrate Court (within 30 days): If the drawer fails to pay within 15 days of receiving the notice, file a criminal complaint under Section 138 before the Judicial Magistrate of First Class within 30 days of the expiry of the 15-day notice period. The complaint must be accompanied by:
+- Original dishonoured cheque
+- Original cheque return memo from the bank
+- Copy of the demand notice
+- Proof of delivery of the notice (postal receipt, tracking)
+- Affidavit of the complainant
+
+Note on Jurisdiction: The complaint can be filed at any of the following — where the cheque was drawn, where the cheque was presented, where the bank on which it was drawn is situated, or where the payee resides.
+
+PUNISHMENT UNDER SECTION 138
+
+If convicted, the accused (drawer) faces:
+- Imprisonment up to 2 years, OR
+- Fine up to twice the amount of the cheque, OR
+- Both imprisonment and fine
+
+The Supreme Court has consistently held that courts should award compensation to the victim. In Damodar S. Prabhu vs Sayed Babalal H (2010), the court recommended that cheque bounce cases be settled through compounding (mutual agreement) to reduce the backlog in courts.
+
+WHAT THE ACCUSED CAN ARGUE IN DEFENCE
+
+Common defences raised in cheque bounce cases:
+1. The cheque was given as security, not for a debt — however, courts have held that the burden of proof lies on the drawer to establish this.
+2. The cheque was obtained by fraud or coercion.
+3. The debt has already been repaid.
+4. The cheque was given as a blank cheque that was subsequently filled fraudulently.
+5. The demand notice was not received (if sent to a wrong address or not properly served).
+
+The Supreme Court in Rangappa vs Sri Mohan (2010) held that once the execution of the cheque is admitted (or proved), a rebuttable presumption arises that the cheque was issued for a legally enforceable debt. The accused must then prove the contrary.
+
+COMPOUNDING OF CHEQUE BOUNCE CASES
+
+Section 147 of the NI Act allows cheque bounce offences to be compounded (settled out of court) at any stage of proceedings. If the drawer agrees to pay the full cheque amount plus agreed compensation, both parties can jointly apply to the court to compound the offence. The court will then acquit the accused. This is the most common resolution and avoids lengthy trials.
+
+DIGITAL PAYMENT RETURN — IS IT COVERED?
+
+The NI Act covers cheques and similar negotiable instruments. It does NOT directly cover failed UPI transactions or digital payment reversals. For fraud in UPI or digital payments, the appropriate remedy is Section 420 IPC (cheating) and a complaint to the cybercrime portal at cybercrime.gov.in.
+
+RECENT DEVELOPMENT — ONLINE COMPLAINTS
+
+The Supreme Court and several High Courts have issued directions to expedite cheque bounce cases. Many courts now conduct cheque bounce trials virtually. Some courts accept online filing of complaints under Section 138.
+
+PRACTICAL TIPS
+
+1. Always demand payment by cheque (rather than cash) for significant transactions so you have legal recourse.
+2. Photograph the cheque before depositing — both front and back.
+3. Do not delay beyond the 30-day period for sending the demand notice or filing the complaint — the case becomes time-barred.
+4. Keep all original documents safely — originals are required in court.
+5. If the cheque amount is large, engage a criminal lawyer experienced in NI Act cases immediately.
+
+IMPORTANT NOTE
+
+Cheque bounce law is procedurally strict. Missing the 30-day demand notice deadline or the 30-day complaint filing deadline will permanently bar your case. Act promptly. For free legal assistance in cheque bounce matters, contact the DLSA in your district or call NALSA helpline 15100.

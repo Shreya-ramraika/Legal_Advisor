@@ -1,0 +1,106 @@
+id: doc_009
+topic: Legal Aid Eligibility in India - Free Legal Services Under NALSA
+source: Legal Services Authorities Act, 1987; Article 39A, Constitution of India
+
+FREE LEGAL AID IN INDIA — COMPLETE GUIDE (NALSA AND DLSA)
+
+Free legal aid is a constitutional right in India. Article 39A of the Constitution of India mandates that the State shall ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disability. The Legal Services Authorities Act, 1987 established the National Legal Services Authority (NALSA) and a nationwide network of District Legal Services Authorities (DLSAs) to provide free and competent legal services to eligible citizens.
+
+WHO IS ENTITLED TO FREE LEGAL AID? (SECTION 12, LEGAL SERVICES AUTHORITIES ACT)
+
+The following categories of persons are entitled to free legal services as a matter of right:
+
+1. Women and Children: All women and children, regardless of their income, are entitled to free legal aid. There is no means test for women and children.
+
+2. Members of Scheduled Castes (SC) and Scheduled Tribes (ST): All SC/ST members are entitled to free legal aid irrespective of income.
+
+3. Victims of Trafficking and Begar (Forced Labour): Anyone who is a victim of human trafficking, forced labour, or bonded labour.
+
+4. Persons with Disabilities: Anyone with a physical or mental disability as defined under the Rights of Persons with Disabilities Act, 2016.
+
+5. Persons in Custody: Anyone who is under detention in a prison, juvenile home, psychiatric hospital, or any protective home.
+
+6. Industrial Workmen: Any worker involved in an industrial dispute regardless of their income.
+
+7. Persons Below the Specified Income Threshold: Any person whose annual income does not exceed the threshold set by the State government. For cases before the Supreme Court, the threshold is Rs. 5 lakh per year. Most states have thresholds ranging from Rs. 1 lakh to Rs. 3 lakh per year.
+
+8. Victims of Natural Disasters: Victims of floods, drought, earthquake, industrial disasters, or ethnic violence.
+
+9. Persons in Psychiatric Hospitals: Inmates of psychiatric hospitals and nursing homes.
+
+WHAT FREE LEGAL SERVICES ARE PROVIDED?
+
+Free legal aid covers all of the following:
+- Engagement of a lawyer for court representation (the lawyer's fee is paid by the Legal Services Authority)
+- Preparation of legal documents — applications, petitions, complaints
+- Advice on legal rights
+- Filing and processing of cases
+- Payment of court fees and charges for obtaining certified copies
+- Mediation and alternative dispute resolution services
+- Legal literacy and awareness programmes
+
+NATIONAL LEGAL SERVICES AUTHORITY (NALSA)
+
+NALSA is the apex body under the Act, chaired by the Deputy Chief Justice of India and administered by an Executive Chairman (a senior judge of the Supreme Court). NALSA:
+- Formulates policies for free legal services
+- Coordinates and supervises SLSA (State Legal Services Authority) and DLSA (District Legal Services Authority)
+- Runs the national legal aid helpline
+- Implements Lok Adalat programmes nationally
+- Operates legal aid clinics in law schools and prisons
+
+Contact NALSA: 
+- Helpline: 15100 (toll-free, national)
+- Website: nalsa.gov.in
+- Address: 12/11, Jam Nagar House, New Delhi - 110011
+
+DISTRICT LEGAL SERVICES AUTHORITY (DLSA)
+
+The DLSA is the most accessible point of contact for citizens. It is present in every district of India and is chaired by the District Sessions Judge. The DLSA:
+- Has a panel of empanelled lawyers available to take up free legal aid cases
+- Operates legal aid clinics at courts, prisons, hospitals, and police stations
+- Organises Lok Adalats at regular intervals
+- Runs Para-Legal Volunteer (PLV) programmes
+- Has a Remand Advocate at every police station to advise arrested persons on their rights
+
+HOW TO APPLY FOR FREE LEGAL AID
+
+Step 1 — Approach the DLSA: Visit the DLSA office in your district during working hours. It is usually located in or near the District Court premises. Ask to meet the Secretary, DLSA.
+
+Step 2 — Submit an Application: Fill out the application form for legal aid (available free at the DLSA office) providing:
+- Your name, address, and contact details
+- Category under which you are applying (e.g., woman, SC/ST, income below threshold)
+- Nature of your legal problem (criminal case, civil dispute, family matter, etc.)
+- Current status of your case (pending in which court, or yet to be filed)
+- Income proof (if applying under the income threshold — BPL card, income certificate from Tehsildar)
+
+Step 3 — Verification: The DLSA Secretary verifies your eligibility. This is typically done on the same day or within a few days.
+
+Step 4 — Assignment of Lawyer: Once approved, the DLSA assigns an empanelled lawyer from their panel. You have the right to be consulted on the assignment. If you are not comfortable with the assigned lawyer, you can request reassignment.
+
+Step 5 — Ongoing Assistance: The assigned lawyer represents you free of charge in court. The DLSA monitors the progress and quality of legal aid provided.
+
+LOK ADALAT — FAST-TRACK ALTERNATIVE DISPUTE RESOLUTION
+
+Lok Adalats (People's Courts) are organised by Legal Services Authorities at regular intervals. They are particularly useful for:
+- Motor accident compensation claims (settled in one sitting)
+- Matrimonial disputes (mutual consent matters)
+- Cheque bounce cases (Section 138 NI Act)
+- Electricity and telephone bill disputes
+- Compoundable criminal offences
+
+Awards passed by Lok Adalats are final, binding, and cannot be appealed in any court. They are free of charge (no court fees) and are implemented immediately. Pending cases can be referred to Lok Adalat voluntarily by either party or by the court.
+
+PRE-LITIGATION MEDIATION
+
+Many DLSAs offer free pre-litigation mediation — resolving disputes before they reach court. This is faster, cheaper, and less adversarial. Particularly recommended for family disputes, neighbourhood conflicts, and small civil matters.
+
+SPECIAL PROGRAMMES FOR VULNERABLE GROUPS
+
+- Women's Legal Aid Clinics: Operate in many districts to specifically help women with matrimonial, domestic violence, and employment matters.
+- Prison Legal Aid: Lawyers visit prisons to advise inmates on bail, appeals, and legal rights.
+- Legal Aid Clinics in Schools and Colleges: Spreading legal awareness among young citizens.
+- Tele-Law Programme: In rural areas, farmers and villagers can access legal advice via video conferencing at Common Service Centres (CSCs).
+
+IMPORTANT NOTE
+
+Free legal aid does not mean low-quality legal aid. NALSA and DLSAs have strict quality monitoring mechanisms. Empanelled lawyers are paid by the government for each stage of proceedings. If you are unhappy with your legal aid lawyer's performance, you can complain to the DLSA Secretary. Never let poverty or lack of money prevent you from accessing justice — that is the promise of Article 39A of the Constitution of India. NALSA helpline: 15100. You can also access services at nalsa.gov.in or through the Tele-Law programme at your nearest Common Service Centre.

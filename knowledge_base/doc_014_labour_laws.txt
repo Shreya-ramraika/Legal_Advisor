@@ -1,0 +1,115 @@
+id: doc_014
+topic: Labour Laws in India - Minimum Wage, EPF, Gratuity and Worker Rights
+source: Minimum Wages Act 1948, Employees Provident Fund Act 1952, Payment of Gratuity Act 1972, Labour Codes 2020
+
+LABOUR LAWS IN INDIA — WORKERS' RIGHTS GUIDE
+
+India has a comprehensive framework of labour laws that protect workers in the organised and semi-organised sectors. This guide covers the most important rights every worker and employee should know: minimum wages, Employees' Provident Fund (EPF), gratuity, and the right against unlawful termination. Recent consolidation into four Labour Codes (2020) is also briefly addressed.
+
+MINIMUM WAGES — YOUR RIGHT TO A FAIR WAGE
+
+The Minimum Wages Act, 1948 guarantees that workers receive at least a government-prescribed minimum wage for their category of work and their state. Key provisions:
+
+Who is covered: The Act applies to scheduled employments — a list of industries and occupations notified by Central and State Governments. This includes agriculture, construction, factories, shops, domestic workers (in many states), and private security.
+
+Minimum Wage Rates: Minimum wages are revised periodically (usually twice a year — April and October) and vary by:
+- State (each state fixes its own rates)
+- Skill category (unskilled, semi-skilled, skilled, highly skilled)
+- Industry sector
+
+As of recent years, the national floor-level minimum wage is Rs. 176 per day for unskilled workers (Central Government reference rate). Many states have higher rates. Check your state's Labour Department website for current rates.
+
+Violation: An employer who pays below minimum wage is liable to imprisonment up to 6 months and/or fine up to Rs. 500. Workers can file a complaint before the Labour Inspector.
+
+How to Complain:
+1. Approach the Labour Inspector of your area (Part of state Labour Department).
+2. File a complaint in writing specifying your name, employer's name and address, wage paid, wage owed, and period of default.
+3. The Inspector will conduct an inquiry. If the employer is found guilty, they will be directed to pay the difference plus penalty.
+4. If the Inspector does not act, approach the Labour Court.
+
+EMPLOYEES' PROVIDENT FUND (EPF) — RETIREMENT SAVINGS PROTECTION
+
+The Employees' Provident Fund and Miscellaneous Provisions Act, 1952 requires employers with 20 or more employees to contribute to EPF for their employees.
+
+Who is covered: All employees earning up to Rs. 15,000 per month basic salary must mandatorily be enrolled in EPF. Employees earning more can also join voluntarily.
+
+Contribution:
+- Employee contributes 12% of their basic wage + dearness allowance (DA)
+- Employer also contributes 12%: of which 8.33% goes to the Employee Pension Scheme (EPS) and 3.67% goes to EPF
+
+Interest: EPF earns an interest rate declared by the government each year (recently around 8.15% per annum), which is credited annually.
+
+Universal Account Number (UAN): Each EPF member is allotted a UAN (Universal Account Number) that remains the same throughout their employment life. You can track your EPF balance, download passbook, and raise complaints through the EPFO portal at epfindia.gov.in using your UAN.
+
+Withdrawal:
+- Full withdrawal on retirement (age 58) or after 2 months of unemployment
+- Partial withdrawal is permitted for specific purposes: medical treatment, home loan repayment, education, marriage — each with specific conditions and amounts allowed
+- Online withdrawal claims can be submitted through the EPFO portal if Aadhaar is linked with UAN
+
+Employer's Obligations: Every employer must:
+- Register with EPFO within 30 days of becoming eligible
+- Deduct employee's EPF contribution from salary and add employer's share
+- Deposit the total contribution with EPFO by the 15th of the following month
+- File monthly ECR (Electronic Challan cum Return)
+
+If Your Employer Is Not Depositing EPF:
+This is a serious violation. File a complaint at:
+- EPFO Regional Office (Grievance Portal: epfigms.gov.in)
+- Central Provident Fund Commissioner
+- You can also file a criminal complaint under Section 14 of the EPF Act (punishment up to 3 years and fine)
+
+GRATUITY — REWARD FOR LONG SERVICE
+
+The Payment of Gratuity Act, 1972 requires employers to pay gratuity to employees who have completed at least 5 years of continuous service upon retirement, resignation, or death/disablement.
+
+Covered by: Establishments with 10 or more employees (or those that previously had 10 employees at any time).
+
+Formula for Gratuity Calculation:
+Gratuity = (Last Drawn Basic Salary + DA) × 15 × Number of Completed Years of Service ÷ 26
+
+Maximum gratuity: Rs. 20 lakh (exempted from income tax up to this limit).
+
+Important: In case of death or disablement, the 5-year condition does not apply — gratuity is payable regardless of years of service.
+
+How to Claim Gratuity:
+1. Submit Form I (application for gratuity) to the employer within 30 days of becoming eligible.
+2. The employer must pay within 30 days of the due date.
+3. If the employer refuses or delays, file Form N (complaint) with the Controlling Authority (usually the Labour Commissioner).
+4. The employer paying gratuity late must also pay 10% simple interest per year on the delayed amount.
+
+OTHER IMPORTANT LABOUR RIGHTS
+
+Payment of Wages: Employers must pay wages without unauthorized deductions. Wages above Rs. 24,000 per month must be paid through bank transfer (not cash). The Payment of Wages Act, 1936 governs this.
+
+Leave Entitlements: The Factories Act, 1948 and state-specific Shops and Establishments Acts provide for earned leave (1 day for every 20 days worked), sick leave, and casual leave. Leave encashment is also a right.
+
+Maternity Benefits: The Maternity Benefit Act, 1961 (amended 2017) provides:
+- 26 weeks of paid maternity leave for establishments with 10 or more employees (for first two children)
+- 12 weeks for third child onwards
+- 12 weeks for adoptive and commissioning mothers
+- Work from home option after leave (where nature of work permits)
+- Crèche facility mandatory for establishments with 50 or more employees
+
+Protection Against Sexual Harassment: The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 (POSH Act) mandates that every establishment with 10 or more employees must have an Internal Complaints Committee (ICC). Women who face sexual harassment can file a complaint with the ICC. For establishments with fewer than 10 employees, file with the Local Complaints Committee (LCC) at the District level.
+
+THE FOUR LABOUR CODES (2020) — WHAT'S CHANGING
+
+The central government has consolidated 29 existing labour laws into 4 Labour Codes:
+1. Code on Wages, 2019
+2. Industrial Relations Code, 2020
+3. Code on Social Security, 2020
+4. Occupational Safety, Health and Working Conditions Code, 2020
+
+These Codes have been passed by Parliament but are yet to be notified and enforced (as of 2024). The existing laws remain in force until the Codes are officially implemented. Watch for notifications.
+
+HOW TO FILE A LABOUR COMPLAINT
+
+1. State Labour Department: File a written complaint with the Labour Inspector/Labour Commissioner for minimum wage violations, PF defaults, or non-payment of wages.
+2. EPFO Grievance Portal: epfigms.gov.in for EPF-related complaints.
+3. Labour Court: For disputes about wrongful termination, retrenchment without compensation, or service matters.
+4. Industrial Tribunal: For industrial disputes involving layoffs and closures.
+5. For POSH violations: Internal Complaints Committee (ICC) of the company, or Local Complaints Committee (LCC) at district level.
+
+IMPORTANT NOTE
+
+Many workers in the unorganised sector (domestic workers, contract workers, gig economy workers) have limited formal protections. The Code on Social Security 2020, once notified, will extend EPF and gratuity benefits to gig and platform workers. Until then, workers in the unorganised sector can approach their state's Labour Welfare Board for available schemes. For free legal aid in labour disputes, contact the DLSA at NALSA helpline 15100.

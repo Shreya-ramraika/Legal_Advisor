@@ -1,0 +1,110 @@
+id: doc_005
+topic: Right to Information Act 2005 - How to File an RTI Application
+source: Right to Information Act, 2005
+
+RIGHT TO INFORMATION ACT, 2005 — COMPLETE GUIDE
+
+The Right to Information Act, 2005 (RTI Act) is one of the most powerful tools available to Indian citizens to hold the government accountable. It gives every citizen of India the right to request information from any public authority — central, state, or local — and mandates a response within 30 days. The RTI Act has been used to expose corruption, track welfare scheme implementation, obtain personal records, and ensure government transparency.
+
+WHAT IS RTI AND WHO CAN FILE?
+
+Under Section 3, every citizen of India has the right to information. There is no requirement to give a reason for seeking the information. You do not need to be a lawyer or have any special qualification. Any adult Indian citizen can file an RTI application.
+
+WHAT INFORMATION CAN YOU SEEK?
+
+You can request:
+- Any document, record, memo, email, opinion, advice, press release, circular, or contract held by a public authority
+- Details of government schemes and their beneficiaries
+- Status of government applications (ration card, pension, driving licence, land records, etc.)
+- Information about public projects, budgets, expenditures, and tenders
+- Service records and salary details of public servants
+- Minutes of meetings, committee decisions
+- Details of any action or decision taken by a public authority
+
+WHAT CANNOT BE DISCLOSED (EXEMPTIONS)
+
+Section 8 lists categories of information that can be refused:
+- Information that would prejudicially affect national security, sovereignty, or relations with foreign countries
+- Information received in confidence from foreign governments
+- Cabinet papers and deliberative process records until the decision is taken
+- Information that would endanger life or physical safety of any person
+- Personal information with no public interest that would violate privacy
+- Trade secrets and commercial information held in confidence
+- Information held in a fiduciary capacity (e.g., a bank cannot disclose another customer's details)
+
+However, even exempt information must be disclosed if public interest in disclosure outweighs the harm caused.
+
+STEP-BY-STEP GUIDE TO FILING AN RTI
+
+Step 1 — Identify the Public Authority: Determine which government department or body holds the information you need. For example, for land records — Revenue Department; for driving licence — RTO; for welfare schemes — Panchayat or Block Development Office.
+
+Step 2 — Identify the Public Information Officer (PIO): Every public authority must designate a Public Information Officer (PIO) who is responsible for receiving and processing RTI applications. The PIO's name and contact must be publicly displayed at the office.
+
+Step 3 — Write the Application: Write a simple application in Hindi, English, or the official language of the state addressed to the PIO. Include:
+- Your full name and address
+- The specific information you seek (be precise — vague requests are often rejected or given incomplete responses)
+- Your contact details
+- The application fee payment details
+
+Keep the language simple and your requests specific. Instead of "Give me all information about MGNREGA," write "Please provide the list of workers registered under MGNREGA scheme in Gram Panchayat X for the year 2023-24 and total wages disbursed."
+
+Step 4 — Pay the Application Fee:
+- Central Government departments: Rs. 10
+- State Government departments: varies by state (usually Rs. 10 to Rs. 50)
+- Mode of payment: IPO (Indian Postal Order), demand draft, court fee stamp, or cash at the counter
+- Below Poverty Line (BPL) applicants are exempt from fees entirely — attach a copy of your BPL card
+
+Step 5 — Submit the Application:
+- By hand at the PIO's office and obtain an acknowledgement
+- By registered post to the PIO's address
+- Online: For Central Government — rtionline.gov.in (free, no postal order needed)
+- Many state governments also have online RTI portals
+
+TIME LIMITS FOR RESPONSE
+
+- Normal response: 30 days from the date of receipt of the application
+- Life and liberty cases: 48 hours (applications involving right to life or liberty must be answered within 48 hours)
+- Information from a third party (transferred applications): 40 days
+- If the application involves a third party who opposes disclosure: additional 10 days
+
+WHAT TO DO IF YOUR RTI IS IGNORED OR REFUSED
+
+First Appeal (Section 19(1)):
+If the PIO does not respond within 30 days, or gives an unsatisfactory or incomplete response, or wrongly refuses information, you can file a First Appeal within 30 days of the date on which the response was due or received. The First Appellate Authority (FAA) is usually a senior officer in the same department. The FAA must decide within 30 days (extendable to 45 days with written reasons).
+
+Second Appeal to Information Commission (Section 19(3)):
+If the First Appeal is unsatisfactory or unanswered, you can file a Second Appeal within 90 days to:
+- Central Information Commission (CIC) — for Central Government departments
+- State Information Commission (SIC) — for State Government departments
+
+The Information Commission can:
+- Order disclosure of information
+- Impose penalty of Rs. 250 per day of delay (up to Rs. 25,000) on the PIO personally
+- Recommend disciplinary action against the PIO
+- Award compensation to the applicant
+
+ONLINE RTI — CENTRAL GOVERNMENT
+
+Website: rtionline.gov.in
+Fee: Rs. 10 (paid online via net banking, UPI, or credit/debit card)
+Process: Register with Aadhaar or mobile number → Select ministry/department → Write your application → Pay fee → Submit → Track status with registration number
+
+PRACTICAL TIPS FOR A STRONG RTI
+
+1. Be specific: "Please provide the approved estimate, contractor name, and payments made for road construction from Village A to Village B under PM Gram Sadak Yojana in 2023-24" is far better than "Give information about road construction."
+
+2. Ask for certified copies: You are entitled to receive certified photocopies of documents for Rs. 2 per page (Central Government).
+
+3. File multiple RTIs: If you need information from multiple departments, file separate RTI applications to each.
+
+4. Follow up relentlessly: The system works best when applicants actively pursue their applications through the appeal mechanism.
+
+5. Protect whistleblowers: If you believe your RTI may create safety risks (e.g., against a powerful local official), consider using a trusted organisation or legal aid body to file on your behalf.
+
+PENALTY FOR FALSE INFORMATION
+
+If a PIO deliberately gives incorrect, incomplete, or misleading information, the Information Commission can impose a penalty of Rs. 250 per day (up to Rs. 25,000) on the PIO personally, in addition to recommending departmental action.
+
+IMPORTANT NOTE
+
+RTI is your constitutional right flowing from Article 19(1)(a) — the right to freedom of speech and expression. No government officer can legally prevent you from filing an RTI or harass you for doing so. If you face intimidation, file a complaint with the police and the Information Commission simultaneously. For assistance with RTI filing, contact your nearest DLSA or the NALSA helpline at 15100.

@@ -1,0 +1,99 @@
+id: doc_010
+topic: Bail in India - Types, Procedure, and How to Apply (CrPC Sections 436-439)
+source: Code of Criminal Procedure, 1973 (CrPC) - Sections 436 to 439
+
+BAIL IN INDIA — COMPLETE GUIDE
+
+Bail is the temporary release of an arrested person from custody, pending investigation or trial, upon providing a surety or bond that the person will appear before the court when required. The right to apply for bail is a fundamental right connected to Article 21 (right to personal liberty) of the Constitution of India. The law on bail is contained in Chapter XXXIII (Sections 436–439) of the Code of Criminal Procedure, 1973 (CrPC).
+
+TYPES OF BAIL IN INDIA
+
+1. Regular Bail (Section 437 and 439, CrPC):
+Applied after arrest, when the person is in judicial custody. For bailable offences, bail is a right (Section 436). For non-bailable offences, bail is at the discretion of the Magistrate (Section 437) or Sessions Court/High Court (Section 439).
+
+2. Anticipatory Bail (Section 438, CrPC):
+Applied BEFORE arrest, when a person has reason to believe they may be arrested for a non-bailable offence. The application is made to the Sessions Court or High Court. If granted, the person is released on bail immediately upon arrest — no remand to police custody.
+
+3. Interim Bail:
+A short-term bail granted by a court while the main bail application is being heard. It is temporary in nature and must be replaced by regular or anticipatory bail.
+
+4. Default Bail (Section 167(2), CrPC):
+Also called statutory bail. If police fail to file a charge sheet within the legally mandated period (60 days for offences punishable up to 10 years; 90 days for offences with punishment of 10 years or more, or death or life imprisonment), the accused has an indefeasible right to be released on bail. This right is absolute and cannot be denied even by the High Court.
+
+BAILABLE VS NON-BAILABLE OFFENCES
+
+Bailable Offences: The accused has a right to bail as a matter of legal entitlement. The police officer or Magistrate has no discretion to refuse. Examples: hurt (not grievous), public nuisance, assault without serious injury, theft (below a certain value in some states).
+
+Non-Bailable Offences: Bail is not a right but may be granted at the discretion of the court. Examples: murder, rape, dacoity, kidnapping for ransom, cheating under IPC 420, POCSO offences, NDPS offences. The court considers several factors before granting bail in non-bailable offences.
+
+HOW TO APPLY FOR BAIL — STEP-BY-STEP PROCEDURE
+
+Step 1 — Identify the Correct Court:
+- For bailable offences: the police officer can grant bail; or the Magistrate before whom the accused is produced.
+- For non-bailable offences: a Magistrate of First Class (Section 437 CrPC) can grant bail for most offences. For offences punishable with death or life imprisonment, only the Sessions Court or High Court can grant bail.
+- Anticipatory bail: Sessions Court or High Court (Section 438).
+
+Step 2 — Engage a Lawyer:
+Though you can apply for bail yourself (in person), it is strongly advisable to engage a criminal lawyer familiar with the local court. Free legal aid lawyers are available through DLSA if you cannot afford one.
+
+Step 3 — Draft the Bail Application:
+The bail application must contain:
+- Name, age, and address of the accused
+- Name of the offence (FIR number, police station, IPC sections)
+- Grounds for bail (first offence, family dependents, no flight risk, ready to cooperate with investigation, etc.)
+- Willingness to provide sureties and abide by conditions
+
+Step 4 — File in Court and Pay Fees:
+File the bail application along with the prescribed court fee. Fix a date for hearing.
+
+Step 5 — Hearing:
+Both sides are heard. The prosecution (police/government lawyer) opposes bail by citing the nature of the offence, criminal antecedents, risk of tampering with evidence, or risk of flight. The defence argues for bail on grounds of innocence, family responsibility, medical condition, cooperation with police, etc.
+
+Step 6 — Court Order:
+The court either grants bail (with conditions) or rejects it. If rejected, a fresh application can be filed in the superior court (e.g., Sessions Court, then High Court, then Supreme Court).
+
+CONDITIONS TYPICALLY IMPOSED ON BAIL
+
+- Personal bond and surety of specified amount
+- Surrender of passport
+- Restriction on leaving the state/country without permission
+- Reporting to the police station at regular intervals
+- Not contacting witnesses or victims
+- Appearing at every date of trial
+
+GROUNDS COURTS CONSIDER FOR BAIL (NON-BAILABLE OFFENCES)
+
+Courts balance two competing concerns — the liberty of the accused and the interests of justice. Key factors considered:
+1. Nature and gravity of the offence
+2. Criminal antecedents (prior convictions)
+3. Possibility of fleeing justice
+4. Danger of tampering with evidence or witnesses
+5. Health and age of the accused
+6. Period of custody already undergone
+7. Likelihood of conviction
+
+ANTICIPATORY BAIL — WHEN AND HOW
+
+If you have reason to believe you will be arrested (e.g., an FIR has been filed against you, or you have received police summons), you can file an anticipatory bail application before the Sessions Court. If the Sessions Court refuses, you can approach the High Court. If the High Court also refuses, the Supreme Court is the final option.
+
+Key point from Sushila Aggarwal vs State of NCT of Delhi (2020, Supreme Court): Anticipatory bail should not be time-limited (courts should not restrict it to 30 days or 60 days). It can continue until the trial is completed, unless cancelled on valid grounds.
+
+CANCELLATION OF BAIL
+
+Bail can be cancelled if the accused:
+- Violates the conditions of bail
+- Attempts to intimidate witnesses or tamper with evidence
+- Commits another offence while on bail
+- Is found to be a flight risk
+
+IMPORTANT SECTIONS AT A GLANCE
+
+- Section 436: Bail as of right for bailable offences
+- Section 437: Bail at Magistrate's discretion for non-bailable offences
+- Section 438: Anticipatory bail (Sessions Court / High Court)
+- Section 439: Powers of Sessions Court and High Court to grant bail
+- Section 167(2): Default bail for failure to file charge sheet in time
+
+IMPORTANT NOTE
+
+Bail is not acquittal — it is only temporary release pending trial. All conditions of bail must be strictly followed. Violation of bail conditions can lead to immediate arrest. Never leave the jurisdiction or miss a court date while on bail — it will result in cancellation of bail and non-bailable warrant (NBW) being issued against you. Contact a criminal lawyer or the DLSA (NALSA helpline: 15100) for immediate assistance if you or a family member has been arrested.

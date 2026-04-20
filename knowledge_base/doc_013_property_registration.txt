@@ -1,0 +1,93 @@
+id: doc_013
+topic: Property Registration in India - Procedure, Stamp Duty and Legal Requirements
+source: Registration Act 1908, Transfer of Property Act 1882, Indian Stamp Act 1899
+
+PROPERTY REGISTRATION IN INDIA — COMPLETE GUIDE
+
+Buying or selling property is one of the biggest financial decisions in a person's life. In India, property transactions must be registered to be legally valid and enforceable. An unregistered sale deed (agreement to sell property) does not transfer ownership. This guide explains the entire process of property registration, including stamp duty, the steps involved, and common pitfalls to avoid.
+
+WHY IS REGISTRATION MANDATORY?
+
+Section 17 of the Registration Act, 1908 mandates compulsory registration of documents related to:
+- Sale, gift, exchange, or mortgage of immovable property worth Rs. 100 or more (effectively all property)
+- Transfer of any decree or order or award relating to immovable property above Rs. 100
+- Lease of immovable property for more than 12 months
+
+An unregistered document does not confer title (ownership) and cannot be produced as evidence in court in a suit relating to the property. Registration protects the buyer by creating a public record of the transaction.
+
+KEY DOCUMENTS REQUIRED FOR PROPERTY PURCHASE AND REGISTRATION
+
+Before registration, the buyer should verify and obtain:
+
+1. Title Documents: Original sale deeds going back at least 30 years (ideally more) to establish a clear chain of ownership.
+2. Encumbrance Certificate (EC): Obtained from the Sub-Registrar's office, it shows whether any loans, mortgages, or legal disputes exist on the property for the past 30 years.
+3. Property Tax Receipts: Ensure all property taxes are paid up to date.
+4. Approved Building Plan: For apartments and constructed properties, verify the building plan is approved by the local municipal authority.
+5. RERA Registration: For projects registered under RERA (Real Estate Regulation and Development Act, 2016), verify the RERA registration number on rera.gov.in or the state RERA portal.
+6. Occupancy Certificate (OC): Issued by the local authority certifying the building is fit for occupation. Essential for apartment purchases.
+7. No Objection Certificates (NOCs): From housing society, water board, electricity board (as applicable).
+8. PAN Card and Aadhaar: Of both seller and buyer — mandatory for registration.
+
+STEP-BY-STEP PROPERTY REGISTRATION PROCEDURE
+
+Step 1 — Prepare the Sale Deed:
+Engage a lawyer to draft the sale deed (conveyance deed). The sale deed must contain:
+- Full names, addresses, PAN numbers of buyer and seller
+- Complete description of the property (survey number, area, boundaries, floor, building name)
+- Sale consideration (agreed purchase price)
+- Payment details (how paid — cheque, NEFT/RTGS, bank loan)
+- Representations and warranties by the seller about clear title
+- Handing over of possession
+- Any conditions (like mortgage repayment before registration)
+
+Step 2 — Calculate and Pay Stamp Duty:
+Stamp duty is a state government tax on property transactions. It varies significantly by state:
+- Maharashtra: 6% of market value (5% stamp duty + 1% local body tax; women buyers: 5%)
+- Karnataka: 5% to 6.5% depending on value
+- Delhi: 6% for men, 4% for women
+- Uttar Pradesh: 7% for men, 6% for women
+- Tamil Nadu: 7%
+
+Market value is determined by the government's guideline value (circle rate/ready reckoner rate). If the actual sale price is higher than the guideline value, stamp duty is calculated on the actual price.
+
+Payment: Pay stamp duty online through the state's stamp duty portal (e-SBTR or franking, depending on state) or purchase non-judicial stamp paper of the appropriate denomination. Stamp duty must be paid before or at the time of execution (signing) of the document.
+
+Step 3 — Book an Appointment at Sub-Registrar's Office:
+In most states, you must book an online appointment at the Sub-Registrar's Office (SRO) where the property is located. The relevant SRO is determined by the location (tehsil/taluk) of the property.
+
+Step 4 — Appear at Sub-Registrar's Office:
+On the appointed date:
+- Both buyer(s) and seller(s) must be present in person (or through a Power of Attorney holder with a registered POA)
+- Two witnesses must also be present with their identity proofs
+- Carry all original documents: sale deed on stamp paper, Aadhaar, PAN, property documents, EC, payment receipts
+- The Sub-Registrar or their clerk will verify the documents and the identity of the parties
+- Biometric verification (fingerprints and photograph) is done
+
+Step 5 — Pay Registration Fees:
+In addition to stamp duty, a registration fee of approximately 1% of the property value (capped at Rs. 30,000 in most states) is charged by the Sub-Registrar's office.
+
+Step 6 — Registration Completed:
+The Sub-Registrar registers the document, gives it a unique registration number, and returns the original sale deed (now endorsed with the registration stamp). The registration is complete.
+
+Step 7 — Mutation (Khata/Dakhil-Kharij):
+After registration, apply for mutation of the property in your name in the local municipal records (for urban properties: municipal corporation or panchayat; for agricultural land: revenue records). Mutation updates the tax records to show you as the new owner and is important for future transactions.
+
+POWER OF ATTORNEY (POA) IN PROPERTY TRANSACTIONS
+
+If a party cannot be present, they can authorise a representative through a registered Power of Attorney. For property transactions, the POA itself must be registered (a general POA for property transactions must be executed before the Sub-Registrar). In the case of NRIs or persons abroad, the POA can be executed before the Indian Consul or Notary and then registered in India.
+
+COMMON FRAUDS TO WATCH FOR
+
+1. Duplicate sale: The same property sold to multiple buyers — always check the EC and search the registration records.
+2. Forged title documents: Always engage a lawyer to verify the chain of title.
+3. Undisclosed encumbrances: Hidden loans or mortgages — EC check is essential.
+4. Benami transactions: Property held in another person's name — illegal under the Prohibition of Benami Property Transactions Act, 2016.
+5. Selling agricultural land to non-agriculturists: Many states restrict such transfers — verify local rules.
+
+CAPITAL GAINS TAX — BUYER'S TDS OBLIGATION
+
+If the property value exceeds Rs. 50 lakh, the buyer must deduct 1% TDS (Tax Deducted at Source) on the purchase price and deposit it with the government using Form 26QB on the Income Tax Department portal. The seller must file the sale in their income tax return and pay capital gains tax as applicable.
+
+IMPORTANT NOTE
+
+Never sign a property document without reading and understanding it. Never pay large sums as advance or token money without a proper registered agreement to sell. Always insist on payment through banking channels (cheque/NEFT/RTGS) — cash payments above Rs. 20,000 are prohibited for property transactions under the Income Tax Act. Engage a local property lawyer for due diligence. If you suspect fraud, file a police complaint and approach the civil court for an injunction immediately.

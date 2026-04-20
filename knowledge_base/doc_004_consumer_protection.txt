@@ -1,0 +1,124 @@
+id: doc_004
+topic: Consumer Protection Act 2019 - Rights, Remedies and Filing Complaints
+source: Consumer Protection Act, 2019 (replaces 1986 Act)
+
+CONSUMER PROTECTION ACT, 2019 — COMPLETE GUIDE
+
+The Consumer Protection Act, 2019 is a landmark legislation that replaced the older 1986 Act and significantly strengthened the rights of consumers in India. It covers defective goods, deficient services, unfair trade practices, misleading advertisements, and e-commerce transactions. Every Indian who buys goods or avails services is a consumer under this law and is entitled to its protections.
+
+WHO IS A CONSUMER?
+
+Under Section 2(7) of the Act, a consumer is any person who:
+- Buys goods for a consideration (payment) which has been paid or promised
+- Hires or avails of services for a consideration
+- Uses the goods with the approval of the buyer
+- Is a beneficiary of services with the approval of the person who hired them
+
+Important exclusion: A person who buys goods for commercial resale or avails services for commercial purposes is NOT a consumer under this Act.
+
+SIX FUNDAMENTAL RIGHTS OF CONSUMERS
+
+1. Right to Safety: Protection against goods and services that are hazardous to life and property.
+2. Right to Information: Right to know the quality, quantity, potency, purity, standard, and price of goods or services.
+3. Right to Choose: Right to access a variety of goods and services at competitive prices.
+4. Right to be Heard: Right to be heard and assured that consumer interests will receive due consideration.
+5. Right to Redressal: Right to seek redressal against unfair trade practices or restrictive trade practices or exploitation.
+6. Right to Consumer Education: Right to acquire the knowledge and skills to be an informed consumer.
+
+WHAT CAN YOU COMPLAIN ABOUT?
+
+Under Section 2(6), the following constitute consumer complaints:
+1. Defective goods: Goods that do not meet quality, quantity, or safety standards.
+2. Deficient services: Services that fall below the promised or expected standard (includes banking, insurance, hospitals, telecom, construction).
+3. Unfair trade practices: Misleading advertisements, false representations about the quality or standard of goods.
+4. Restrictive trade practices: Practices that restrict competition or are harmful to consumers.
+5. Charging above MRP: Selling at a price higher than the Maximum Retail Price printed on the product.
+6. Overcharging or denial of services: Refusing to provide services or charging excessively.
+
+E-COMMERCE AND ONLINE TRANSACTIONS (NEW IN 2019)
+
+The 2019 Act specifically covers e-commerce for the first time. Online marketplaces like Amazon, Flipkart, Meesho, and service providers like Zomato, Urban Company are now explicitly covered. You can file a complaint if:
+- A product ordered online is not delivered
+- A product is significantly different from what was described
+- Refund is denied without valid reason
+- Seller makes false claims about the product
+
+THREE-TIER DISPUTE RESOLUTION (CONSUMER FORUMS)
+
+Tier 1 — District Consumer Disputes Redressal Commission (DCDRC):
+- Jurisdiction: Complaints where the value of goods/services and compensation claimed does not exceed Rs. 1 crore
+- Where to file: District where you reside, or where the opposite party (seller/service provider) has its office, or where the cause of action arose
+- Filing fee: Nominal (ranges from Rs. 100 to Rs. 500 based on claim amount)
+
+Tier 2 — State Consumer Disputes Redressal Commission (SCDRC):
+- Jurisdiction: Complaints where value exceeds Rs. 1 crore but does not exceed Rs. 10 crore
+- Also handles appeals from the District Commission
+
+Tier 3 — National Consumer Disputes Redressal Commission (NCDRC):
+- Jurisdiction: Complaints where value exceeds Rs. 10 crore
+- Also handles appeals from the State Commission
+- Located in New Delhi
+
+TIME LIMIT TO FILE A COMPLAINT
+
+Under Section 69 of the Act, a complaint must be filed within 2 years from the date on which the cause of action arose. The forum may condone delay if sufficient cause is shown. Do not delay filing — collect all evidence and file promptly.
+
+HOW TO FILE A CONSUMER COMPLAINT
+
+Option A — Online (Recommended):
+1. Visit consumerhelpline.gov.in or edaakhil.nic.in
+2. Register as a consumer with your mobile number and Aadhaar
+3. Fill in the complaint form with details of the opposite party, nature of complaint, and relief sought
+4. Upload evidence: bills, receipts, emails, photos, warranty cards
+5. Pay the nominal filing fee online
+6. You will receive an acknowledgement and case number
+7. Track progress online — hearings are now conducted virtually too
+
+Option B — Physical Filing:
+Visit the District Consumer Disputes Redressal Commission in your district. Get the complaint form, fill it in triplicate, attach evidence copies (self-attested), and pay the filing fee at the counter.
+
+WHAT TO INCLUDE IN YOUR COMPLAINT
+
+1. Full name and address of the complainant (you)
+2. Full name and address of the opposite party (seller/company)
+3. Description of goods purchased or services availed
+4. Date of purchase/transaction
+5. Nature of defect or deficiency
+6. Amount of compensation claimed and basis for it
+7. Supporting documents: Invoice, receipt, warranty, correspondence, medical reports (if injury), photos
+
+RELIEFS AVAILABLE TO CONSUMERS
+
+If your complaint is upheld, the forum can order:
+- Replacement of defective goods
+- Refund of the price paid
+- Removal of deficiency in service
+- Discontinuation of unfair trade practice
+- Compensation for loss or injury suffered (including mental agony)
+- Punitive damages in cases of gross negligence
+- Interest on the refund amount
+- Cost of litigation (advocate fees, travel)
+
+IMPORTANT PROVISIONS IN THE 2019 ACT
+
+Product Liability (Chapter VI): Manufacturers, sellers, and service providers are now strictly liable for harm caused by defective products or deficient services. You do not need to prove negligence — only that the product was defective.
+
+Mediation: The 2019 Act introduced mandatory mediation before adjudication in cases where there is a possibility of settlement. This speeds up resolution significantly.
+
+Central Consumer Protection Authority (CCPA): A new regulatory body empowered to recall unsafe products, discontinue misleading advertisements, and impose penalties up to Rs. 10 lakh on manufacturers for false advertisements.
+
+Penalties for Misleading Advertisements: Advertisers and endorsers (including celebrities) can be penalised for misleading advertisements.
+
+COMMON COMPLAINTS WHERE CONSUMERS WIN
+
+- Mobile phones, electronics, and appliances with manufacturing defects
+- Builder/developer delays in possession of flat or apartment
+- Insurance claim rejections without valid reasons
+- Hospital overcharging or medical negligence
+- Airlines for lost baggage, flight delays, or denied boarding
+- Banks for unauthorised charges, credit card fraud, or incorrect EMI deduction
+- Telecom companies for billing errors or service disruption
+
+IMPORTANT NOTE
+
+Consumer forums are designed to be accessible to ordinary citizens without requiring a lawyer. You can represent yourself. However, for complex cases involving large amounts or medical negligence, engaging a consumer law advocate is advisable. The National Consumer Helpline number is 1800-11-4000 (toll-free) or 1915. You can also WhatsApp on 8800001915 for consumer grievance redressal.

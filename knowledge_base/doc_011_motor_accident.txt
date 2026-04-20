@@ -1,0 +1,112 @@
+id: doc_011
+topic: Motor Accident Claims - MACT Tribunal, Compensation and Insurance
+source: Motor Vehicles Act, 1988 (Sections 140, 163A, 166) and Motor Vehicles (Amendment) Act, 2019
+
+MOTOR ACCIDENT COMPENSATION CLAIMS — COMPLETE GUIDE
+
+Road accidents are a tragic reality in India — over 1.5 lakh people die in road accidents every year. Victims and their families often do not know their legal rights to compensation. The Motor Vehicles Act, 1988 (amended significantly in 2019) provides a robust framework for claiming compensation through the Motor Accidents Claims Tribunal (MACT). This guide explains who can claim, how much can be claimed, and the exact process to follow.
+
+WHO CAN FILE A MOTOR ACCIDENT CLAIM?
+
+- The accident victim (if alive and injured)
+- Legal heirs of the deceased victim (spouse, children, parents — in that order of priority)
+- Anyone who has suffered loss of property in the accident
+- A representative of a minor victim
+
+Even if the victim was also at fault for the accident, compensation can still be claimed (though it may be reduced proportionately — doctrine of contributory negligence).
+
+WHAT CAN YOU CLAIM COMPENSATION FOR?
+
+1. Medical Expenses: All reasonable medical and surgical treatment expenses, hospitalisation, medicines, physiotherapy, and future medical treatment.
+
+2. Loss of Income: Loss of earnings during the period of hospitalisation and recovery (for injured victims). For deceased victims — loss of financial dependency of the family on the deceased.
+
+3. Pain and Suffering: Compensation for physical pain, mental anguish, and suffering.
+
+4. Permanent Disability: If the accident results in permanent partial or total disability, the victim is entitled to compensation calculated on the basis of earning capacity lost permanently.
+
+5. Loss of Dependency (in death cases): Calculated using the multiplier method — monthly income × 12 × multiplier (based on age, as specified in Schedule II of the Motor Vehicles Act).
+
+6. Funeral Expenses: Fixed at Rs. 15,000 (for death cases) under the structured formula.
+
+7. Loss of Consortium: Spouse, children, and parents of the deceased can claim compensation for loss of love, affection, and companionship.
+
+8. No-Fault Liability (Section 140): Even before proving negligence, an interim compensation of Rs. 50,000 for minor injuries, Rs. 1.25 lakh for permanent disablement, and Rs. 5 lakh for death can be claimed immediately from the insurance company. No need to prove who was at fault.
+
+TWO SCHEMES FOR COMPENSATION
+
+Scheme 1 — Section 163A (Structured Formula Basis):
+For claims up to a certain level, victims can use the structured formula under Schedule II, which gives pre-calculated compensation based on age and income. This is faster and avoids lengthy litigation over negligence.
+
+Scheme 2 — Section 166 (General Compensation on Fault Basis):
+The traditional route where negligence of the vehicle owner/driver must be proven. Awards tend to be higher but litigation is longer. The Supreme Court's landmark judgment in National Insurance Co. Ltd. vs Pranay Sethi (2017) laid down the standard for calculating just compensation.
+
+WHICH COURT TO APPROACH — MOTOR ACCIDENTS CLAIMS TRIBUNAL (MACT)
+
+The MACT is a specialised tribunal set up in every district to handle motor accident compensation claims. It functions like a civil court but is faster. The claim can be filed in the MACT where:
+- The accident occurred, OR
+- The claimant resides, OR
+- The owner of the vehicle resides, OR
+- The insurer of the vehicle has its registered office
+
+STEP-BY-STEP CLAIMS PROCESS
+
+Step 1 — File FIR: Immediately after the accident, file an FIR at the nearest police station. Obtain the FIR copy — this is essential for the MACT claim.
+
+Step 2 — Medical Treatment: Preserve all medical records, bills, doctor's reports, discharge summaries, and prescriptions. Even if insurance pays initially, keep all original documents.
+
+Step 3 — Obtain Key Documents:
+- Registration certificate (RC) of the offending vehicle
+- Driving licence of the driver
+- Insurance policy of the offending vehicle (third-party insurance is compulsory for all vehicles under MV Act)
+- FIR copy
+- Post-mortem report (in case of death)
+- Income proof of the victim (salary slips, income tax returns, or affidavit)
+
+Step 4 — File Petition Before MACT:
+File a compensation claim petition (Form prescribed by the Tribunal) with:
+- Details of the accident
+- Details of the vehicles involved
+- Details of injuries or death
+- Quantum of compensation claimed
+- Supporting documents
+
+Step 5 — Service on Respondents:
+The Tribunal issues notice to the owner of the vehicle, the driver, and the insurance company. The insurance company is the key respondent in practice.
+
+Step 6 — Evidence and Hearing:
+Witnesses are examined, documents are marked as exhibits, and both sides present arguments on the quantum of compensation.
+
+Step 7 — Award:
+The Tribunal passes a monetary award. The insurance company is directed to pay. If the insurance company fails to pay, you can execute the award by attaching the vehicle.
+
+TIME LIMIT TO FILE MACT CLAIM
+
+Under Section 166(3) of the MV Act, a claim petition must be filed within 6 months of the accident. However, the Tribunal has discretion to condone delay if sufficient cause is shown. Do not wait — file as soon as possible.
+
+HIT AND RUN ACCIDENTS
+
+If the vehicle involved in the accident cannot be identified, compensation can be claimed from the Solatium Fund under the Motor Vehicles (Solatium Fund) Scheme:
+- Death: Rs. 2 lakh
+- Grievous injury: Rs. 50,000
+
+Apply through the insurer or the Collector of the district.
+
+INTERIM COMPENSATION — IMMEDIATE RELIEF
+
+The 2019 Amendment made interim compensation mandatory:
+- Rs. 25,000 in fatal accident cases (to be paid within 30 days)
+- Rs. 5,000 for minor injuries (within 30 days)
+- Deducted from the final award
+
+IMPORTANT PRACTICAL TIPS
+
+1. Do not sign any settlement documents with the insurance company immediately after the accident — companies often approach families with low settlement offers during the shock period. Consult a lawyer first.
+2. The final compensation ordered by MACT is often 3–5 times higher than initial insurance offers.
+3. Engage a motor accident claims lawyer — most work on a contingency fee (percentage of the award) so you pay nothing upfront.
+4. Free legal aid is available for motor accident victims who meet eligibility criteria — contact your DLSA.
+5. Interest is awarded on the compensation amount from the date of filing the claim, so file early.
+
+IMPORTANT NOTE
+
+Free legal aid through DLSA is available for eligible motor accident victims. The NALSA helpline number is 15100. In all cases, preserve all original documents carefully — medical bills, prescriptions, FIR, and photographs of injuries and the accident scene are critical evidence for maximising your compensation.
