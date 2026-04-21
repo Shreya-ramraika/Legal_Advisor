@@ -19,7 +19,6 @@ from utils.ingest import ingest_docs
 from config import FAITHFULNESS_THRESHOLD, MAX_EVAL_RETRIES
 
 
-# ✅ MUST EXIST (this was missing / broken)
 def init_all():
     llm = init_llm()
     embedder = init_embedder()
@@ -30,7 +29,7 @@ def init_all():
     return llm, embedder, collection
 
 
-# ✅ MUST EXIST
+
 def build_graph(llm, embedder, collection):
 
     builder = StateGraph(LegalMindState)
@@ -56,7 +55,7 @@ def build_graph(llm, embedder, collection):
 
     builder.add_node("out_of_scope", out_of_scope_node)
 
-    # Entry
+
     builder.set_entry_point("memory")
 
     builder.add_edge("memory", "router")
